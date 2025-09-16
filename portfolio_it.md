@@ -1,5 +1,5 @@
 ---
-layout: default # Anche qui, si riferisce al layout "default" fornito dal tema
+layout: default
 title: Andrea Santagati | Portfolio Cybersecurity (Italiano)
 ---
 
