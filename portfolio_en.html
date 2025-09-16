@@ -3,4 +3,8 @@ layout: default
 title: Andrea Santagati | Cybersecurity Portfolio (English)
 ---
 
+{% capture portfolio_content %}
 {% include_relative portfolio_en.md %}
+{% endcapture %}
+
+{{ portfolio_content | markdownify }}
