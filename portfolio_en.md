@@ -70,12 +70,5 @@ I am always open to professional growth opportunities and collaborations.
 
 ---
 
-### 📄 Curriculum Vitae
-
-*   **[Download CV (English)](./Andrea_Santagati_CV_EN.pdf)**
-*   **[Scarica CV (Italiano)](./Andrea_Santagati_CV_IT.pdf)**
-
----
-
 **Disclaimer:**
 This portfolio includes simulated projects developed for demonstration purposes. The company "AethelGuard Solutions" is entirely fictitious, and any resemblance to existing companies, products, or services is purely coincidental. These projects do not represent real-world assessments or operational advice.
