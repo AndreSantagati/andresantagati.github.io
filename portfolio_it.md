@@ -1,3 +1,10 @@
+---
+layout: default # Anche qui, si riferisce al layout "default" fornito dal tema
+title: Andrea Santagati | Portfolio Cybersecurity (Italiano)
+---
+
+{% include_relative portfolio_it.md %}
+
 # Andrea Santagati | Portfolio Cybersecurity
 
 ## 🚀 Junior GRC | Threat Intelligence | Security Risk Analyst
