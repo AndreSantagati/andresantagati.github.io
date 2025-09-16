@@ -1,5 +1,5 @@
 ---
-layout: default # Questo si riferisce al layout "default" fornito dal tema 'jekyll-theme-minimal'
+layout: default
 title: Andrea Santagati | Cybersecurity Portfolio (English)
 ---
 
