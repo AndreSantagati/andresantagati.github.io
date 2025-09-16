@@ -1,10 +1,3 @@
----
-layout: default
-title: Andrea Santagati | Cybersecurity Portfolio (English)
----
-
-{% include_relative portfolio_en.md %}
-
 # Andrea Santagati | Cybersecurity Portfolio
 
 ## 🚀 Junior GRC | Threat Intelligence | Security Risk Analyst
